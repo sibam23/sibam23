@@ -8,12 +8,14 @@
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![NumPy](https://img.shields.io/badge/NumPy%20-%2305122A.svg?&style=flat&logo=numpy&logoColor=white)&nbsp;
 ![Pytorch](https://img.shields.io/badge/Pytorch%20-%2305122A.svg?&style=flat&logo=pytorch&logoColor=white)&nbsp;
 ![TensorFlow](https://img.shields.io/badge/Tensorflow%20-%2305122A.svg?&style=flat&logo=tensorflow&logoColor=white)&nbsp;
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?&style=flat&logo=Jupyter&logoColor=white)&nbsp;
+![Conda](	https://img.shields.io/badge/conda-342B029.svg?&style=flat&logo=anaconda&logoColor=white)
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=sibam23)](https://github.com/sibam23/github-readme-stats)
 

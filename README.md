@@ -2,8 +2,8 @@
 
 - 🎓 I am Sibam Parida, currently studying Electronic and Communications Engineering at Visvesvaraya National Institute of Technology, Nagpur (2019-2023).
 - 🔭 I’m currently working at  [IvLabs](https://www.ivlabs.in/), an AI and Robotics community.
-- 🌱 My fields on interest are Artifivial intelligence,Machine Learning and Variational Deep Learning.
-- ✍️ In my free time I like to draw and read books.
+- 🌱 My fields on interest are Artificial intelligence, Machine Learning and Variational Deep Learning.
+
 
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;

@@ -1,7 +1,8 @@
 ### Hi there 👋
 
-- 🎓 I am Sibam Parida, currently studying Electronic and Communications Engineering at Visvesvaraya National Institute of Technology, Nagpur (2019-2023).
-- 🔭 I’m currently working at  [IvLabs](https://www.ivlabs.in/), an AI and Robotics community.
+-    I am Sibam Parida, currently working at Centre for Visual Information Technology at Indian Institue of Information Technology Hyderabad.
+- 🎓 I graduated from Electronic and Communications Engineering at Visvesvaraya National Institute of Technology, Nagpur (2019-2023).
+- 🔭 I worked at  [IvLabs](https://www.ivlabs.in/), an AI and Robotics community.
 - 🌱 My fields on interest are Artificial intelligence, Machine Learning and Variational Deep Learning.
 
 

@@ -17,7 +17,6 @@
 ![TensorFlow](https://img.shields.io/badge/Tensorflow%20-%2305122A.svg?&style=flat&logo=tensorflow&logoColor=white)&nbsp;
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?&style=flat&logo=Jupyter&logoColor=white)&nbsp;
 ![Conda](	https://img.shields.io/badge/conda-342B029.svg?&style=flat&logo=anaconda&logoColor=white)
-
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=sibam23)](https://github.com/sibam23/github-readme-stats)
 
 #### 📫 How to reach me: 

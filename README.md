@@ -1,9 +1,9 @@
 ### Hi there 👋
 
--    I am Sibam Parida, currently working at Centre for Visual Information Technology at Indian Institue of Information Technology Hyderabad.
+-    I am Sibam Parida, currently enrolled as masters student at the University of California Riverside. 
 - 🎓 I graduated from Electronic and Communications Engineering at Visvesvaraya National Institute of Technology, Nagpur (2019-2023).
-- 🔭 I worked at  [IvLabs](https://www.ivlabs.in/), an AI and Robotics community.
-- 🌱 My fields on interest are Artificial intelligence, Machine Learning and Variational Deep Learning.
+- 🔭 I worked at  [IvLabs](https://www.ivlabs.in/), an AI and Robotics community and Centre for Visual Information Technology, Hyderabad.
+- 🌱 My fields of interest are Computer Vision, Artificial intelligence, Machine Learning and Variational Deep Learning.
 
 
 
